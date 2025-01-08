@@ -18,7 +18,7 @@
 
 ***
 
-\*Không in nghiêng\*
+\*Không in nghiêng\*  
 ~~gạch ngang~~
 
 | Cột 1     | Cột 2     |
